@@ -5,7 +5,7 @@ for (let i = 1; i <= 6; i++) {
   let numero;
 
   {
-    input = prompt("Inserisci il numero " + i + ":");
+    input = prompt("Inserisci il numero ");
     numero = parseInt(input); 
   } 
 
